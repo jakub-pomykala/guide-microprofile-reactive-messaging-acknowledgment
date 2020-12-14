@@ -31,7 +31,7 @@ Learn how to acknowledge messages by using MicroProfile Reactive Messaging.
 
 == What you'll learn
 
-# THIS IS A BIG BLOCK OF TEXT 
+Now here is a curious thing:  how can a man who was once appointed poet laureate of all England, succeeding no less than Alfred, Lord Tennyson by the way, be considered (in some quarters) to be “the worst and least read English poet”?  That is what happened to Alfred Austin in 1896, a man who had spent his whole life writing and publishing both novels and poetry, while also being an active political journalist.
 
 MicroProfile Reactive Messaging provides a reliable way to handle messages in reactive applications. MicroProfile Reactive
 Messaging ensures that messages aren't lost by requiring that messages that were delivered to the target server are acknowledged
